@@ -13,6 +13,6 @@ and you shold input your path to config.json
 
 #### training
 Before training, you have to configure gpu ids and number of cpu in Class Params in main.py
-'''
+```
 python main.py
-'''
+```
